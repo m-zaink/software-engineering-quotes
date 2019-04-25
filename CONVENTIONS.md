@@ -1,6 +1,6 @@
 # If you want to contribute, strictly follow these conventions.
 
-
+* We shall be using markdown language to write quotes. Please follow the same.
 * You needn't add quotes to everything you write except when you want to add author's name after the quote. For all other cases, we know they are quotes and that is that.
 * Make each quote as a separate bullet. 
 * You may want to add the author of the quote. The author name needs to follow the quote and should be preceded with an hyphen. Follow the below example and pay attention to the spaces.
